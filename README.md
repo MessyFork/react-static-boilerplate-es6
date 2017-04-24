@@ -1,5 +1,11 @@
 React 15.3.1 + React-Router 2.7.0 + static-site-generator-webpack-plugin 3.0.0
 ==============================================================================
+### THIS PROJECT IS OUTDATED
+I initially designed this boilerplate in the summer of 2016. As React and other Javascript 
+frameworks move extremely quickly it seems that this boilerplate may already be obsolete. 
+Nevertheless I'm putting it up for anyone who's looking to make a static React.js website. 
+I recommend anyone who's setting out to do so to look at the new versions of React as I believe
+Facebook has made it easier to create static sites in the new versions of React. 
 
 This repo is a static site boilerplate with react and react-router.
 ###Set Up
